@@ -1,5 +1,6 @@
 import random
 import math
+import console
 
 def writeOut(list):
 	counter = 1
